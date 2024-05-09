@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/sruthiviswanadham/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/151760421/a634058e-bd34-4b1c-8003-c8420a0a25fb)
+
+
+### Name: VISWANADHAM VENKATA SAI SRUTHI
+### Register Number: 212223100061
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
